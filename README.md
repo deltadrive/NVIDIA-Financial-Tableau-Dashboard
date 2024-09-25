@@ -26,7 +26,7 @@ The Tableau dashboard is designed to offer insights into NVIDIA's financial perf
 
 ## How to View the Tableau Dashboard
 
-You can view the full interactive Tableau dashboard [here](#).
+You can view the full interactive Tableau dashboard [https://public.tableau.com/app/profile/chisom.eriobu/viz/NvidiaStockAnalysis_17272959645470/Dashboard1?publish=yes](#).
 
 ---
 
