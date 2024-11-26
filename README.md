@@ -26,7 +26,7 @@ The Tableau dashboard is designed to offer insights into NVIDIA's financial perf
 
 ## How to View the Tableau Dashboard
 
-You can view the full interactive Tableau dashboard [https://public.tableau.com/app/profile/chisom.eriobu/viz/NvidiaStockAnalysis_17272959645470/Dashboard1?publish=yes](#).
+You can view the full interactive Tableau dashboard [https://public.tableau.com/app/profile/chisom.eriobu/viz/NvidiaStockAnalysis_17272959645470/Dashboard1?publish=yes](#) 
 
 ---
 
@@ -35,8 +35,4 @@ You can view the full interactive Tableau dashboard [https://public.tableau.com/
    - Add a commit message, for example, "Create initial README for Tableau dashboard."
    - Click **Commit new file** to create your `README.md`.
 
-### After Completing These Steps:
-- Your `README.md` will appear on the repository’s main page and anyone visiting your repository will see your Tableau project description.
-- Make sure to update the image path so that it points to the Tableau dashboard image you uploaded. You can also update the link to the full dashboard if it is hosted somewhere else.
 
-Let me know if you need further adjustments or additional details!
